@@ -235,5 +235,5 @@ window.addEventListener('load', () => {
   document.getElementById('popupWindow').innerHTML = popupWin();
 });
 
-menuPop();
+
 closed();
